@@ -1,0 +1,2 @@
+rootProject.name = 'padre_test'
+include 'hijo_test'
